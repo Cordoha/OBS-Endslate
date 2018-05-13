@@ -1,4 +1,11 @@
-                 Created by Justin Coombs for Open Broadcast Software.
+
+                     __|  \ | _ \   __| |      \__ __|__| 
+                     _|  .  | |  |\__ \ |     _ \  |  _|  
+                    ___|_|\_|___/ ____/____|_/  _\_| ___| 
+
+          CC - Creative Commons Attribution-ShareAlike 4.0 International
+
+                Created by Justin Coombs for Open Broadcast Software.
              Configure, and use the file as an ENDSLATE for your videos on
                    TWITCH, YouTUBE, VIMEO, and other social networks.
 
